@@ -22,4 +22,4 @@
 
 <br>Clone the repository.</br>
 <br>Ensure Python and Pygame are installed.</br>
-<br>Run _'python breakout.py'_ to start the game.</br>
+<br>Run _'python breakout_game.py'_ to start the game.</br>
