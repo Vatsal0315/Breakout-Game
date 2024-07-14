@@ -1,4 +1,4 @@
-# Breakout Game in Python with Pygame 
+# Breakout Arcade Game in Python with Pygame 
 
 ## Features:
 
