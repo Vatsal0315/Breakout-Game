@@ -3,23 +3,23 @@
 ## Features:
 
 <br>**Paddle Control:** Use the left and right arrow keys to move the paddle.</br>
-**Brick Breaking:** Break all bricks by bouncing the ball off the paddle.
-**Game Over:** Lose if the ball falls below the paddle.
-**Score Tracking:** Keep track of the score as you break bricks.
+<br>**Brick Breaking:** Break all bricks by bouncing the ball off the paddle.</br>
+<br>**Game Over:** Lose if the ball falls below the paddle.</br>
+<br>**Score Tracking:** Keep track of the score as you break bricks.</br>
 
 ## How to Play:
 
-Press **SPACE** to start or restart the game.
-Move the paddle using the **LEFT** and **RIGHT** arrow keys.
-Break all bricks to win, avoid letting the ball fall below the paddle.
+<br>Press **SPACE** to start or restart the game.</br>
+<br>Move the paddle using the **LEFT** and **RIGHT** arrow keys.</br>
+<br>Break all bricks to win, avoid letting the ball fall below the paddle.</br>
 
 ### Technologies Used:
 
-Python
-Pygame Library
+<br>Python</br>
+<br>Pygame Library</br>
 
 ## Getting Started:
 
-Clone the repository.
-Ensure Python and Pygame are installed.
-Run _'python breakout.py'_ to start the game.
+<br>Clone the repository.</br>
+<br>Ensure Python and Pygame are installed.</br>
+<br>Run _'python breakout.py'_ to start the game.</br>
