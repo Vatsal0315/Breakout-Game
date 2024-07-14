@@ -3,9 +3,9 @@
 ## Features:
 
 <br>**-Paddle Control:** Use the left and right arrow keys to move the paddle.</br>
-<br>**Brick Breaking:** Break all bricks by bouncing the ball off the paddle.</br>
-<br>**Game Over:** Lose if the ball falls below the paddle.</br>
-<br>**Score Tracking:** Keep track of the score as you break bricks.</br>
+<br>**-Brick Breaking:** Break all bricks by bouncing the ball off the paddle.</br>
+<br>**-Game Over:** Lose if the ball falls below the paddle.</br>
+<br>**-Score Tracking:** Keep track of the score as you break bricks.</br>
 
 ## How to Play:
 
